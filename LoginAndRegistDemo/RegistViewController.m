@@ -63,7 +63,7 @@
     self.phoneTextField.text = @"";
     self.markTextField.text = @"";
     self.passwordTextField.text = @"";
-    
+    NSLog(@"我是李四");
 }
 
 - (void)didReceiveMemoryWarning {
