@@ -70,6 +70,7 @@
     [super didReceiveMemoryWarning];
     
     NSLog(@"我是王五");
+    NSLog(@"我是王五改的");
     
     
     // Dispose of any resources that can be recreated.
